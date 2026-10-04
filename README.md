@@ -1,19 +1,26 @@
 # Davi Agonilha Vittori
 
-I build **AI agents, automations and internal systems** for businesses: assistants that answer on
-WhatsApp, pipelines that read documents and flag what matters, and platforms that connect the
-tools a company already uses (Microsoft 365, SharePoint, CRM, spreadsheets) — with guardrails,
-tests and documentation, so they behave in production.
+AI agent and chatbot developer based in Londrina, Brazil. I build AI agents, WhatsApp chatbots,
+RAG chats over company documents and automations that connect Microsoft 365, SharePoint,
+ClickUp and spreadsheets.
 
-**Recent work**
+**Education**
 
-- **Real-estate due diligence agent** — LLM extraction with provenance, deterministic rules engine, 148 test files. [Case study](https://github.com/davivittori/portfolio/blob/main/en/02-real-estate-due-diligence.md)
-- **Field inspection PWA** — offline-first, Microsoft 365 sign-in, photos to SharePoint, AI inspection reports. [Case study](https://github.com/davivittori/portfolio/blob/main/en/01-field-inspection-agent.md)
-- **Corporate AI chat** — knowledge base synced from SharePoint with safeguards against data loss. [Case study](https://github.com/davivittori/portfolio/blob/main/en/04-corporate-ai-chat.md)
-- **WhatsApp assistant for older adults** — voice, screenshot understanding, step-by-step guidance. [Code](https://github.com/davivittori/chatbot-idosos)
+- Agentic Artificial Intelligence certificate, MIT (2026)
+- Postgraduate degree in Software Engineering, University of São Paulo (USP), 2026
+- B.Sc. in Electrical Engineering, State University of Maringá (UEM), 2021
+
+**Recent work (2026, in production)**
+
+- **Real estate due diligence agent.** Reads property records with the Claude API, checks them against rules written in Python and cites the source page of every finding. 148 test files. [Case study](https://github.com/davivittori/portfolio/blob/main/en/02-real-estate-due-diligence.md)
+- **Field inspection app.** Works offline, signs in with Microsoft, saves photos to SharePoint and drafts the report with AI. [Case study](https://github.com/davivittori/portfolio/blob/main/en/01-field-inspection-agent.md)
+- **RAG chat over company documents.** Knowledge base synced from SharePoint every 6 hours, with checks that stop a bad sync from deleting it. [Case study](https://github.com/davivittori/portfolio/blob/main/en/04-corporate-ai-chat.md)
+- **WhatsApp chatbot for older adults.** Voice replies, screenshot reading and step by step guidance. Open source. [Code](https://github.com/davivittori/chatbot-idosos)
 
 All case studies, in English and Portuguese: [portfolio](https://github.com/davivittori/portfolio)
 
-**Working with me** — written scope, milestone delivery, documented handover. English and Portuguese.
+**Stack:** Python, FastAPI, Claude API, LLM, RAG, WhatsApp API, JavaScript, React, PostgreSQL, Supabase, Microsoft Graph, SharePoint, GitHub Actions, Docker
 
-Available for projects · davivittori.tecnologia@gmail.com · [LinkedIn](https://www.linkedin.com/in/davi-agonilha-vittori/)
+**How I work:** written scope with timeline and price, delivery in milestones, code and setup instructions at the end. English and Portuguese.
+
+Open to new projects: davivittori.tecnologia@gmail.com · [LinkedIn](https://www.linkedin.com/in/davi-agonilha-vittori/)
