@@ -6,8 +6,8 @@ ClickUp and spreadsheets.
 
 **Education**
 
-- Agentic Artificial Intelligence certificate, MIT (2026)
-- Postgraduate degree in Software Engineering, University of São Paulo (USP), 2026
+- Agentic AI Applied to Business Transformation certificate, MIT (2026)
+- MBA in Software Engineering, University of São Paulo (USP/Esalq), in progress, expected 2027
 - B.Sc. in Electrical Engineering, State University of Maringá (UEM), 2021
 
 **Recent work (2026, in production)**
